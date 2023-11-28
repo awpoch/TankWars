@@ -1,4 +1,4 @@
-# TankWars
+# Tank Wars Game
 
 <p>
  Tank Wars is a multiplayer online game. To try the game out download the reposotory and run server.exe to start
@@ -10,9 +10,9 @@
 </p>
 
 ### More Information:
-* I created this game with C#
+* I created this game using C#
 * I used animations which make the experiance more enjoyable
-* I programmed it using a Model, a View, and a Controller (MVC)
+* I programmed it using a Model, a View, and a Controller (spereation of concerns)
 * 
  
 ![Alt text](Images/TankWarsAnimation.gif)
