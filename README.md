@@ -14,5 +14,6 @@
 * I used animations which make the experiance more enjoyable
 * I programmed it using a Model, a View, and a Controller (spereation of concerns)
 * 
- 
+
+ ### Here is a preview:
 ![Alt text](Images/TankWarsAnimation.gif)
