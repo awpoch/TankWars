@@ -13,7 +13,7 @@
 * I created this game using C#
 * I used animations which make the experiance more enjoyable
 * I programmed it using a Model, a View, and a Controller (spereation of concerns)
-* 
+* You can play with other human players or as many AI players as you would like.
 
- ### Here is a preview:
+ ### Here's a preview:
 ![Alt text](Images/TankWarsAnimation.gif)
