@@ -16,4 +16,4 @@
 * You can play with other human players or as many AI players as you would like
 
  ### Here's a preview:
-![Alt text](Images/TankWarsAnimation.gif)
+![Alt text](Images/TankWarsAnimation_Orig.gif)
